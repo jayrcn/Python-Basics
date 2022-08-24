@@ -1,4 +1,4 @@
-friends = ['Jay', 'Mark', 'AJ', 'HEYA'] #this is just the sample ist LOL
+friends = ['Jay', 'Mark', 'AJ', 'HEYA'] #this is just the sample list LOL
 
 for x in range(len(friends)): 
     # *inside function first than do the outside one*
