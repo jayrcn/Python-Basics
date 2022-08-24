@@ -10,5 +10,12 @@ for x in range(len(friends)):
     #the friend variable is now equal to the "friends" list (from index 0 to 3)
     
     print('Yall ALREADY KNOW THE DEAL:', friend)
-    #this returns the friend variable which is equal to 
+    #this returns the string "Yall ALREADY KNOW THE DEAL" + the friend varible (which is the FRIENDS LIST from index 0 to 3)
+    
+#this will return 
+#Yall ALREADY KNOW THE DEAL: Jay
+#Yall ALREADY KNOW THE DEAL: Mark
+#Yall ALREADY KNOW THE DEAL: AJ
+#Yall ALREADY KNOW THE DEAL: HEYA
+    
     
